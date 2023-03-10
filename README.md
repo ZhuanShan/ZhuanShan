@@ -23,7 +23,7 @@ This is ZhuanShan。
 <p><strong>Do not heistitate to send me offer <wanghao100@126.com> ! </strong></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ZhuanShan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuanShan&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuanShan)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZhuanShan&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
