@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=ZhuanShan)
-![Visitor Count](https://profile-counter.glitch.me/ZhuanShan/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuanShan)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZhuanShan&theme=xcode" /> </div>
+
+<p>&emsp;&emsp;Hi, this is ZhuanShan。</p>
+<p>&emsp;&emsp;Loving deeplearning, especially CV!</p>
+<p><strong>&emsp;&emsp; Just send me offer! </strong></p>
