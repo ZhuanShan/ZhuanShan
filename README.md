@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is ZhuanShan。
+This is ZhuanShan
 <p>Loving deeplearning, especially CV!</p>
 <p><strong>Do not heistitate to send me offer <wanghao100@126.com> ! </strong></p>
 
