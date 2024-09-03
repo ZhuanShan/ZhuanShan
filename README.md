@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 This is ZhuanShan
-<p>Loving deeplearning, especially CV!</p>
+
 <p><strong>Do not heistitate to send me offer <wanghao100@126.com> ! </strong></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ZhuanShan)
